@@ -2,6 +2,10 @@
 
 I'm Emmie, a multipotentialite based in the vibrant landscapes of Kenya. Currently immersed in the world of software engineering, I bring a unique perspective as a project manager with a passion for art, coding, and the serenity of nature. My goal is to merge technology and creativity, particularly as I aspire to become a seasoned Animation Software Engineer.
 
+![image](https://github.com/Emmiechege/Emmiechege/assets/133679989/89d3185c-aec9-45d6-bb72-8738d16f235c)
+
+
+
 ## 🚀 About Me
 
 - 🌍 **Location:** Nairobi, Kenya
