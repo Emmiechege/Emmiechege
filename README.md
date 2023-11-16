@@ -1,4 +1,5 @@
-https://github.com/Emmiechege/Emmiechege/assets/133679989/27878943-35ea-455c-99d3-c9743d6ba2e7
+![image](https://github.com/Emmiechege/Emmiechege/assets/133679989/b38e031a-55d6-41f2-9c27-f0ad77852bd0)
+
 
 # Hello, there! 👋
 
