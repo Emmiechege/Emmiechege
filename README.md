@@ -3,7 +3,7 @@
 
 # Hello, there! 👋
 
-I'm Emmie, a multipotentialite based in the vibrant landscapes of Kenya. Currently immersed in the world of software engineering, I bring a unique perspective as a project manager with a passion for art, coding, and the serenity of nature. My goal is to merge technology and creativity, particularly as I aspire to become a seasoned Animation Software Engineer.
+I'm Emmie, a multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a seasoned Animation Software Engineer, I'm driven by the desire to craft innovative and imaginative experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
 
 ## 🚀 About Me
 
