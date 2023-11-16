@@ -1,8 +1,8 @@
+https://github.com/Emmiechege/Emmiechege/assets/133679989/27878943-35ea-455c-99d3-c9743d6ba2e7
+
 # Hello, there! 👋
 
 I'm Emmie, a multipotentialite based in the vibrant landscapes of Kenya. Currently immersed in the world of software engineering, I bring a unique perspective as a project manager with a passion for art, coding, and the serenity of nature. My goal is to merge technology and creativity, particularly as I aspire to become a seasoned Animation Software Engineer.
-
-
 
 ## 🚀 About Me
 
