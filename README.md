@@ -3,7 +3,7 @@
 
 # Hello, there! 👋
 
-I'm Emmie, a multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a seasoned Animation Software Engineer, I'm driven by the desire to craft innovative and imaginative experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
+I'm Emmie, a multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a seasoned Frontend Developer, I'm driven by the desire to craft innovative and imaginative experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
 
 ## 🚀 About Me
 
