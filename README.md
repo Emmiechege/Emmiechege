@@ -1,4 +1,4 @@
-![image](https://github.com/Emmiechege/Emmiechege/assets/133679989/b38e031a-55d6-41f2-9c27-f0ad77852bd0)
+<img align="right" alt="Coding" width="400" src="https://github.com/Emmiechege/Emmiechege/blob/main/assets/133679989/b38e031a-55d6-41f2-9c27-f0ad77852bd0.gif">
 
 
 # Hello, there! 👋
