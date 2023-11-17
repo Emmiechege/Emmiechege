@@ -1,7 +1,6 @@
 <div align="center">
- <img src="![Emily's Fav Pic](https://github.com/Emmiechege/Emmiechege/assets/133679989/53581b57-858e-4494-aa9c-a3676adef7be)">
+  <img src="https://github.com/Emmiechege/Emmiechege/raw/main/assets/133679989/53581b57-858e-4494-aa9c-a3676adef7be" alt="Emily's Fav Pic">
 </div>
-
 
 <img align="center" alt="Coding" width="400" src="./downloads/Emily.Gif">
 
