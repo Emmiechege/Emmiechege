@@ -1,5 +1,6 @@
 <div align="center">
- <img src="\Users\HP\Downloads\Emily.Gif">
+ <img src="![Emily's Fav Pic](https://github.com/Emmiechege/Emmiechege/assets/133679989/53581b57-858e-4494-aa9c-a3676adef7be)
+">
 </div>
 
 
