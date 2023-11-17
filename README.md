@@ -1,9 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Emmiechege/Emmiechege/blob/main/assets/133679989/b38e031a-55d6-41f2-9c27-f0ad77852bd0.gif">
 
 
-# Hello, there! 👋
+# Hello there! 👋 My name is Emmie,
 
-I'm Emmie, a multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a Frontend Developer, I'm driven by the desire to craft innovative and imaginative user experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
+A multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a Frontend Developer, I'm driven by the desire to craft innovative and imaginative user experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
 
 ## 🚀 About Me
 
