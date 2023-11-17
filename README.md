@@ -1,6 +1,4 @@
-![Uploading image.png…]()
-
-
+![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/12cda1be-8b61-4802-b48c-b99266f3f426)
 
 <img align="center" alt="Coding" width="400" src="./downloads/Emily.Gif">
 
