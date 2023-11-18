@@ -16,7 +16,7 @@ A multipotentialite currently immersed in the world of software engineering. Wit
 ## 🛠️ Tech Stack
 
 - 💻 **Languages:** C, Python, 
-- 🧰 **Tools:** VS Code, Git, Docker
+- 🧰 **Tools:** VS Code, Git, Docker, MobaXterm
 - 📦 **Frameworks:** React, Flask
 
 ## 🌱 Current Focus
