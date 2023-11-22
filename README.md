@@ -27,7 +27,7 @@ In my coding journey, I'm looking forward to dive into the intricacies of animat
 
 I thrive in collaborative environments and am open to projects that resonate with my interests. As a project manager, I excel in fostering teamwork and ensuring projects align with both creative and technical goals. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <p align="left">
 <a href="https://twitter.com/wanjahchege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wanjahchege" height="30" width="40" /></a>
