@@ -6,9 +6,9 @@ I'm a multipotentialite currently immersed in the world of software engineering.
 
 ## 🚀 About Me
 
-- 🌍 **Location:** Nairobi, Kenya
-- 👩‍💻 **Proffesion:** Project Manager
-- 📚 **Learning:** Software Engineering
+- 🌍 **Location:** Nairobi, Kenya.
+- 👩‍💻 **Proffesion:** Project Manager.
+- 📚 **Learning:** Software Engineering.
 - 🎨 **Passions:** Coding, Reading, Journaling, Outdoor escapades, Indoor games, Watching animations, DIY Projects
 - 🎓 **Aspiration:** Frontend Developer
 -  You can reach me on: **emilywanjachege@gmail.com**
