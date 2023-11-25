@@ -15,9 +15,9 @@ I'm a multipotentialite currently immersed in the world of software engineering.
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages:** C, Python, 
-- 🧰 **Tools:** VS Code, Git, Docker, MobaXterm
-- 📦 **Frameworks:** React, Flask
+- 💻 **Languages:** C, Python.
+- 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
+- 📦 **Frameworks:** React, Flask.
 
 ## 🌱 Current Focus
 
