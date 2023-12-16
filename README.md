@@ -19,7 +19,7 @@ I'm a multipotentialite currently immersed in the world of software engineering.
 - 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
 - 📦 **Frameworks:** React, Flask.
 
-## 🌱 Current Focus
+## 🌱 Current Focus.
 
 In my coding journey, I'm looking forward to dive into the intricacies of animation, blending the precision of code with the artistry of motion. My fascination lies in creating immersive and visually stunning experiences through frontend development. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
 
