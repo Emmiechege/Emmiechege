@@ -23,7 +23,7 @@ I'm a multipotentialite currently immersed in the world of software engineering.
 
 In my coding journey, I'm looking forward to dive into the intricacies of animation, blending the precision of code with the artistry of motion. My fascination lies in creating immersive and visually stunning experiences through frontend development. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
 
-## 🤝 Collaboration
+## 🤝 Collaboration.
 
 I thrive in collaborative environments and am open to projects that resonate with my interests. As a project manager, I excel in fostering teamwork and ensuring projects align with both creative and technical goals. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
 
