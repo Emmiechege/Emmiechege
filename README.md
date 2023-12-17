@@ -4,7 +4,7 @@
 
 I'm a multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a Frontend Developer, I'm driven by the desire to craft innovative and imaginative user experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
 
-## 🚀 About Me.
+## 🚀 About Me
 
 - 🌍 **Location:** Nairobi, Kenya.
 - 👩‍💻 **Proffesion:** Project Manager.
