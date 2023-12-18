@@ -4,7 +4,7 @@
 
 I'm a multipotentialite currently immersed in the world of software engineering. With a project management background and a profound love for art and coding, I aim to bridge the gap between technology and creativity. Aspiring to become a Frontend Developer, I'm driven by the desire to craft innovative and imaginative user experiences, weaving together the realms of innovation and imagination at the intersection of art and coding .
 
-## 🚀 About Me
+## 🚀 About Me.
 
 - 🌍 **Location:** Nairobi, Kenya.
 - 👩‍💻 **Proffesion:** Project Manager.
@@ -19,7 +19,7 @@ I'm a multipotentialite currently immersed in the world of software engineering.
 - 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
 - 📦 **Frameworks:** React, Flask.
 
-## 🌱 Current Focus
+## 🌱 Current Focus.
 
 In my coding journey, I'm looking forward to dive into the intricacies of animation, blending the precision of code with the artistry of motion. My fascination lies in creating immersive and visually stunning experiences through frontend development. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
 
