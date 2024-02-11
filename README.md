@@ -13,7 +13,7 @@ I'm a multipotentialite currently immersed in the world of software engineering.
 - 🎓 **Aspiration:** Frontend Developer.
 -  You can reach me on: **emilywanjachege@gmail.com**
 
-## 🛠️ Tech Stack.
+## 🛠️  Tech Stack.
 
 - 💻 **Languages:** C, Python.
 - 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
