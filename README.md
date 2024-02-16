@@ -23,7 +23,7 @@ In my coding journey, I'm looking forward to dive into the intricacies of animat
 
 ## 🤝  Collaboration.
 
-I thrive in collaborative environments and am open to projects that resonate with my interests. As a project manager, I excel in fostering teamwork and ensuring projects align with both creative and technical goals. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
+I thrive in collaborative environments and am open to projects that resonate with my interests. I excel in fostering teamwork and ensuring projects align with both creative and technical goals. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
 
 ## 📫 Let's Connect.
 
