@@ -19,7 +19,7 @@
 
 ## 🌱  Current Focus.
 
-I'm looking forward to dive into the intricacies of animation, blending the precision of code with the artistry of motion. My fascination lies in creating immersive and visually stunning experiences through frontend development. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
+I'm working on diving into the intricacies of animation, blending the precision of code with the artistry of motion. My fascination lies in creating immersive and visually stunning experiences through becoming a fullstack developer. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
 
 ## 🤝 Collaboration.
 
