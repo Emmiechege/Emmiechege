@@ -3,7 +3,6 @@
 # Hello there 👋,I'm  Emmie...
 
 ## 🚀 About Me.
-
 - 🌍 **Location:** Nairobi, Kenya.
 - 👩‍💻 **Proffesion:** Project Manager.
 - 📚 **Learning:** Software Engineering.
