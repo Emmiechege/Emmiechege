@@ -12,6 +12,7 @@ kool ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/1
 -  You can reach me on: **emilywanjachege@gmail.com**
 
 
+
 ## 🛠️  Tech Stack.
 
 - 💻 **Languages:** C, Python.
