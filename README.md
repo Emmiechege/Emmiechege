@@ -1,7 +1,6 @@
 kool ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/12cda1be-8b61-4802-b48c-b99266f3f426)
 
 
-
 # Hello there 👋,I'm  Emmie...
 
 ## 🚀 About Me.
