@@ -2,8 +2,6 @@ kool ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/1
 
 # Hello there 👋,I'm  Emmie...
 
-
-
 ## 🚀 About Me.
 - 🌍 **Location:** Nairobi, Kenya.
 - 👩‍💻 **Proffesion:** Project Manager.
