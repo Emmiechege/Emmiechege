@@ -10,8 +10,6 @@ kool ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/1
 - 🎓 **Aspiration:** Frontend Developer.
 -  You can reach me on: **emilywanjachege@gmail.com**
 
-
-
 ## 🛠️  Tech Stack.
 
 - 💻 **Languages:** C, Python.
