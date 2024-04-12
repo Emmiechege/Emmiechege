@@ -13,6 +13,7 @@ kool ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/1
 
 
 
+
 ## 🛠️  Tech Stack.
 
 - 💻 **Languages:** C, Python.
