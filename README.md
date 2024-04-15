@@ -17,6 +17,7 @@ kool ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/1
 - 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
 - 📦 **Frameworks:** React, Flask.
 
+
 ## 🌱  Current Focus.
 
 I'm working on diving into the intricacies of animation, blending the precision of code with the artistry of motion. My fascination lies in creating immersive and visually stunning experiences through becoming a fullstack engineer. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
