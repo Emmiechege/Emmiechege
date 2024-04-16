@@ -25,8 +25,6 @@ I'm working on diving into the intricacies of animation, blending the precision 
 
 I thrive in collaborative environments and am open to projects that resonate with my interests. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
 
-
-
 ## 📫 Let's Connect.
 
 <p align="left">
