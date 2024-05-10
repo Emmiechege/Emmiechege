@@ -13,12 +13,12 @@
 
 
 
-
 ## 🛠️  Tech Stack.
 
 - 💻 **Languages:** C, Python.
 - 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
 - 📦 **Frameworks:** React, Flask.
+
 
 ## 🌱  Current Focus.
 
