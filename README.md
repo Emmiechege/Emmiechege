@@ -8,8 +8,6 @@
 - 🎨 **Passions:** Coding, Reading, Journaling, Outdoor escapades, Indoor games, Watching animations, DIY Projects.
 - 🎓 **Aspiration:** Frontend Developer.
 -  You can reach me on: **emilywanjachege@gmail.com**
-
-
 ## 🛠️  Tech Stack.
 
 - 💻 **Languages:** C, Python.
