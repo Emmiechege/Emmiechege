@@ -19,7 +19,7 @@
 My fascination lies in creating immersive and visually stunning experiences through becoming a fullstack engineer. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
 
 ## 🤝 Collaboration.
-I thrive in collaborative environments and am open to projects that resonate with my interests. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
+I thrive in collaborative environments and i'm open to projects that resonate with my interests. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
 
 ## 📫 Let's Connect.
 <p align="left">
