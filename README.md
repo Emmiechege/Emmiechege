@@ -6,7 +6,7 @@
 - 🌍 **Location:** Nairobi, Kenya.
 - 👩‍💻 **Proffesion:** Project Manager.
 - 📚 **Learning:** Software Engineering.
-- 🎨 **Passions:** Coding, Reading, Indoor games, DIY Projects.
+- 🎨 **Passions:** Coding, Reading, Indoor games, DIY  Projects.
 - 🎓 **Aspiration:** Fullstack Developer.
 -  You can reach me on: **emilywanjachege@gmail.com**
 
