@@ -36,5 +36,3 @@ Feel free to explore my repositories to see my coding journey unfold. Don't hesi
 
 [![Emmie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmiechege&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/emmiechege)
 
-
-This little life
