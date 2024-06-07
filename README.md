@@ -11,8 +11,8 @@
 -  You can reach me on: **emilywanjachege@gmail.com**
 
 ## 🛠️  Tech Stack.
-- 💻 **Languages:** C, Python.
-- 🧰 **Tools:** VS Code, Git, Docker, MobaXterm.
+- 💻 **Languages:** C, Python,HTML&CSS.
+- 🧰 **Tools:** VS Code, Git, Docker.
 - 📦 **Frameworks:** React, Flask.
 
 ## 🌱  Current Focus.
