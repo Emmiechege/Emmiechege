@@ -1,9 +1,6 @@
  ![yellow cutie](https://github.com/Emmiechege/Emmiechege/assets/133679989/12cda1be-8b61-4802-b48c-b99266f3f426)
 
 # Hello there 👋,I'm  Emmie...
-
-
-
 ## 🚀 About Me.
 - 🌍 **Location:** Nairobi, Kenya.
 - 👩‍💻 **Proffesion:** Project Manager.
@@ -16,7 +13,7 @@
 
 ## 🛠️  Tech Stack.
 - 💻 **Languages:** C, Python,HTML&CSS.
-- 🧰 **Tools:** VS Code, Git, Docker.
+- 🧰 **Tools:** VS Code, Git.
 - 📦 **Frameworks:** React, Flask.
 
 ## 🌱  Current Focus.
@@ -24,8 +21,6 @@ My fascination lies in creating immersive and visually stunning experiences thro
 
 ## 🤝 Collaboration.
 I thrive in collaborative environments and i'm open to projects that resonate with my interests. Whether it's a coding challenge, a creative endeavor, or a fusion of both, let's collaborate and bring our ideas to life!
-
-
 
 ## 📫 Let's Connect.
 <p align="left">
