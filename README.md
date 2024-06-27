@@ -28,6 +28,7 @@ I thrive in collaborative environments and i'm open to projects that resonate wi
 <a href="https://www.leetcode.com/https://leetcode.com/emmiechege/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/emmiechege/" height="30" width="40" /></a>
 </p>
 
+
 Feel free to explore my repositories to see my coding journey unfold. Don't hesitate to reach out for collaboration, advice, or a chat about the latest tech trends. Let's connect, innovate, and make the tech world more beautiful together.🌟
 
 <h3 align="left">Languages and Tools:</h3>
