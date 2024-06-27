@@ -14,7 +14,6 @@
 - 🧰 **Tools:** VS Code, Git.
 - 📦 **Frameworks:** React, Flask.
 
-
 ## 🌱  Current Focus.
 My fascination lies in creating immersive and visually stunning experiences through becoming a fullstack engineer. Whether it's bringing characters to life or crafting dynamic visual narratives, I'm on a mission to add a touch of magic to the digital canvas.
 
